@@ -1,0 +1,159 @@
+[정리]
+MNIST 데이트셋은 기본 ResNet18 모델만으로도 성능이 너무 높게 나옴
+MNIST 데이터셋 말고 CIFAR10 데이터셋 사용하기로 결정
+
+
+[ Train epoch: 0 ]
+
+Current batch: 0
+Current benign train accuracy: 0.1328125
+Current benign train loss: 2.3116533756256104
+
+Current batch: 100
+Current benign train accuracy: 0.984375
+Current benign train loss: 0.105508953332901
+
+Current batch: 200
+Current benign train accuracy: 0.984375
+Current benign train loss: 0.04925035685300827
+
+Current batch: 300
+Current benign train accuracy: 0.9765625
+Current benign train loss: 0.07747010886669159
+
+Current batch: 400
+Current benign train accuracy: 0.96875
+Current benign train loss: 0.06591872125864029
+
+Total benign train accuarcy: 95.30333333333333
+Total benign train loss: 72.045706495177
+
+[ Test epoch: 0 ]
+
+Test accuarcy: 97.96
+Test average loss: 0.0006135060721484479
+Model Saved!
+
+[ Train epoch: 1 ]
+
+Current batch: 0
+Current benign train accuracy: 0.984375
+Current benign train loss: 0.0745105892419815
+
+Current batch: 100
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.022417554631829262
+
+Current batch: 200
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.012250132858753204
+
+Current batch: 300
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.010528111830353737
+
+Current batch: 400
+Current benign train accuracy: 0.9765625
+Current benign train loss: 0.048392970114946365
+
+Total benign train accuarcy: 99.17166666666667
+Total benign train loss: 13.345141892088577
+
+[ Test epoch: 1 ]
+
+Test accuarcy: 98.95
+Test average loss: 0.0003486704918730538
+Model Saved!
+
+[ Train epoch: 2 ]
+
+Current batch: 0
+Current benign train accuracy: 1.0
+Current benign train loss: 0.0019753295928239822
+
+Current batch: 100
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.016182323917746544
+
+Current batch: 200
+Current benign train accuracy: 1.0
+Current benign train loss: 0.011103871278464794
+
+Current batch: 300
+Current benign train accuracy: 1.0
+Current benign train loss: 0.007484516128897667
+
+Current batch: 400
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.02343595027923584
+
+Total benign train accuarcy: 99.36666666666666
+Total benign train loss: 9.616585967829451
+
+[ Test epoch: 2 ]
+
+Test accuarcy: 98.83
+Test average loss: 0.00036420344086072874
+Model Saved!
+
+[ Train epoch: 3 ]
+
+Current batch: 0
+Current benign train accuracy: 0.984375
+Current benign train loss: 0.04852934554219246
+
+Current batch: 100
+Current benign train accuracy: 1.0
+Current benign train loss: 0.0013843007618561387
+
+Current batch: 200
+Current benign train accuracy: 1.0
+Current benign train loss: 0.006135924719274044
+
+Current batch: 300
+Current benign train accuracy: 1.0
+Current benign train loss: 0.008667606860399246
+
+Current batch: 400
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.01809210702776909
+
+Total benign train accuarcy: 99.615
+Total benign train loss: 6.026192802703008
+
+[ Test epoch: 3 ]
+
+Test accuarcy: 99.24
+Test average loss: 0.00023742536110657965
+Model Saved!
+
+[ Train epoch: 4 ]
+
+Current batch: 0
+Current benign train accuracy: 1.0
+Current benign train loss: 0.0020891542080789804
+
+Current batch: 100
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.007465434726327658
+
+Current batch: 200
+Current benign train accuracy: 1.0
+Current benign train loss: 0.0009033840615302324
+
+Current batch: 300
+Current benign train accuracy: 1.0
+Current benign train loss: 0.002717189257964492
+
+Current batch: 400
+Current benign train accuracy: 0.9921875
+Current benign train loss: 0.03670408949255943
+
+Total benign train accuarcy: 99.68833333333333
+Total benign train loss: 4.841010686359368
+
+[ Test epoch: 4 ]
+
+Test accuarcy: 99.44
+Test average loss: 0.00019260736666838058
+Model Saved!
